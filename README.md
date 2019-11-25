@@ -1,5 +1,5 @@
 <h2>Geometry</h2>
-My pupal DLL and first Github Repository
-Using Powershell, Dotnet, CSharp
-Creates classes Square and Rectangle
-They have public properties of length, width, area, perimeter
+<p>My pupal DLL and first Github Repository</p>
+<p>Using Powershell, Dotnet, CSharp</p>
+<p>Creates classes Square and Rectangle</p>
+<p>They have public properties for length, width, area, perimeter</p>
