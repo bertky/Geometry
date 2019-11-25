@@ -1,0 +1,11 @@
+/home/robert/Projects/pwsh/Geometry/src/bin/Debug/netstandard2.0/Geometry.deps.json
+/home/robert/Projects/pwsh/Geometry/src/bin/Debug/netstandard2.0/Geometry.dll
+/home/robert/Projects/pwsh/Geometry/src/bin/Debug/netstandard2.0/Geometry.pdb
+/home/robert/Projects/pwsh/Geometry/src/obj/Debug/netstandard2.0/Geometry.csprojAssemblyReference.cache
+/home/robert/Projects/pwsh/Geometry/src/obj/Debug/netstandard2.0/Geometry.AssemblyInfoInputs.cache
+/home/robert/Projects/pwsh/Geometry/src/obj/Debug/netstandard2.0/Geometry.AssemblyInfo.cs
+/home/robert/Projects/pwsh/Geometry/src/obj/Debug/netstandard2.0/Geometry.dll
+/home/robert/Projects/pwsh/Geometry/src/obj/Debug/netstandard2.0/Geometry.pdb
+/home/robert/Projects/pwsh/Geometry/output/Geometry/bin/Geometry.deps.json
+/home/robert/Projects/pwsh/Geometry/output/Geometry/bin/Geometry.dll
+/home/robert/Projects/pwsh/Geometry/output/Geometry/bin/Geometry.pdb
